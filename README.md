@@ -14,7 +14,8 @@ The program will calculate and display whether the entered year is a leap year o
 
 The result will be printed on the screen.
 
-Example
+
+Output:
 
 Enter a year: 2024
 
